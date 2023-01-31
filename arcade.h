@@ -1,6 +1,6 @@
 /*  
  *  arcade.h - Driver for Arcade Cabinets
- *  Version 0.4a
+ *  Version 0.5
  */
 
  
